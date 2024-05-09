@@ -30,7 +30,7 @@ void main() {
     "-" => a - b,
     "*" => a * b,
     "/" => a / b,
-    _ => throw FormatException("Invalid value")
+    _ => throw FormatException("Invalid value") /* this is the same default value but this required */
   };
   print("Result: $result");
 }

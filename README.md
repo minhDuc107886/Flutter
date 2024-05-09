@@ -21,4 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 ## Author
 
 Developer: Tran Minh Duc
+
 Born: 9/2/2001

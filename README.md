@@ -1,6 +1,8 @@
-# test_flutter
+# learn Flutter - Dart
 
-A new Flutter project.
+A new Flutter project. Crate at 8/5/5024 by Minh Duc.
+
+"Make this change and also change you life"
 
 ## Getting Started
 
@@ -14,3 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Author
+
+Developer: Tran Minh Duc
+Born: 9/2/2001

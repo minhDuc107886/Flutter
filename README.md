@@ -23,3 +23,9 @@ samples, guidance on mobile development, and a full API reference.
 Developer: Tran Minh Duc
 
 Born: 9/2/2001
+
+## Date
+
+Start date 8/5/2024
+
+Finish Date 17/5/204

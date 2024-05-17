@@ -46,6 +46,7 @@ class Point{
   }
 }
 
+/*Lớp trừu tượng*/
 abstract class Calculate{
   double calAdd(double x, double b);
   double calSub(double x, double b);
